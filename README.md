@@ -49,6 +49,11 @@ Sistema de consola desarrollado en **Kotlin** para la gestión integral de una p
 
 <img width="674" height="721" alt="Captura de pantalla 2026-11-02 171128" src="https://github.com/user-attachments/assets/3bea231a-581c-4228-bb82-659364b8a802" />
 
+### 4. Gestión de Inventario
+
+<img width="497" height="466" alt="Captura de pantalla 2026-11-02 162417" src="https://github.com/user-attachments/assets/fbb172b3-110b-4659-9361-329b59089e80" />
+
+<img width="627" height="329" alt="Captura de pantalla 2026-11-02 162440" src="https://github.com/user-attachments/assets/3ba8761d-0017-4c58-9d62-a780e6e6629d" />
 
 ---
 
