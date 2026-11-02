@@ -39,6 +39,8 @@ Sistema de consola desarrollado en **Kotlin** para la gestión integral de una p
 ### 2. Ingreso de Nuevo Pedido y Reabastecimiento de Inventario
 
 <img width="1084" height="517" alt="Captura de pantalla 2026-11-02 163912" src="https://github.com/user-attachments/assets/397faa88-cea2-45b8-a53b-fcb2e4e99d44" />
+
+
 ```text
 [ Imagen de evidencia: Alerta de stock insuficiente y reabastecimiento interactivo ]
 ```
