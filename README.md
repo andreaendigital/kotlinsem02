@@ -31,19 +31,12 @@ Sistema de consola desarrollado en **Kotlin** para la gestión integral de una p
 ### 1. Menú Principal del Sistema
 
 <img width="431" height="217" alt="Captura de pantalla 2026-11-02 170636" src="https://github.com/user-attachments/assets/21f3ac15-0811-4470-8a99-5560b9c314c2" />
-```text
 
-[ Imagen de evidencia: Menú principal ]
-```
 
 ### 2. Ingreso de Nuevo Pedido y Reabastecimiento de Inventario
 
 <img width="1084" height="517" alt="Captura de pantalla 2026-11-02 163912" src="https://github.com/user-attachments/assets/397faa88-cea2-45b8-a53b-fcb2e4e99d44" />
 
-
-```text
-[ Imagen de evidencia: Alerta de stock insuficiente y reabastecimiento interactivo ]
-```
 
 ### 3. Gestión y Filtrado de Estados de Pedidos
 
@@ -52,17 +45,10 @@ Sistema de consola desarrollado en **Kotlin** para la gestión integral de una p
 <img width="765" height="329" alt="Captura de pantalla 2026-11-02 165627" src="https://github.com/user-attachments/assets/794e003e-03fc-4d53-a522-ea0ccb86d3d0" />
 
 
-```text
-[ Imagen de evidencia: Filtrado de pedidos y actualización de estado ]
-```
-
 ### 4. Reporte Diario de Pedidos
 
 <img width="674" height="721" alt="Captura de pantalla 2026-11-02 171128" src="https://github.com/user-attachments/assets/3bea231a-581c-4228-bb82-659364b8a802" />
 
-```text
-[ Imagen de evidencia: Reporte diario de la jornada ]
-```
 
 ---
 
